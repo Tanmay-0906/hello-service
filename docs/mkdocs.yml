@@ -1,0 +1,7 @@
+
+```yaml
+site_name: Payment Service Docs
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
